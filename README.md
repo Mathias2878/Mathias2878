@@ -1,3 +1,2 @@
 - Hi, I’m @Mathias2878
 - I’m currently learning Python
-- Pronouns: He/they
